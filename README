@@ -1,0 +1,13 @@
+psycopg2-special-moves
+======================
+
+Some not-so-popular tricks that I wrote out for my friend Eric.
+
+You need psycopg2 installed to use this code and you need to edit the
+bottom of eric.py to put in credentials to a postgresql database.
+
+Then run like this::
+
+    $ python eric.py
+
+.. vim: set syntax=rst:
